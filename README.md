@@ -2,14 +2,16 @@
 
 ## Overview
 
-This project is an AI-powered image classifier that can identify different species of flowers. It was developed as part of the AWS AI & ML Scholarship program in collaboration with Udacity. The classifier uses deep learning techniques and transfer learning with EfficientNet architectures to achieve high accuracy in flower species identification.
+This project is an AI-powered image classifier that can identify 102 different species of flowers. It was developed as part of the AWS AI & ML Scholarship program in collaboration with Udacity. The classifier uses deep learning techniques and transfer learning with EfficientNet architectures to achieve high accuracy in flower species identification.
 
 ## Features
-
-- Train a neural network on a dataset of flower images
-- Use transfer learning with EfficientNetV2-S or EfficientNetB0 architectures
-- Predict flower species from new images
-- Command-line interface for both training and prediction
+- Jupyter Notebook
+  - Contains the implementation of a neural network using EfficientNetV2-S
+- Command-Line Application
+  - Train a neural network on a dataset of flower images
+  - Use transfer learning with EfficientNetV2-S or EfficientNetB0 architectures
+  - Predict flower species from new images
+  - Command-line interface for both training and prediction
 
 ## Requirements
 
