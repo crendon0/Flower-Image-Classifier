@@ -70,6 +70,7 @@ text
 - `train.py`: Script for training the model
 - `predict.py`: Script for making predictions on new images
 - `cat_to_name.json`: JSON file mapping category labels to flower names
+  - Note: this is automatically created after running 'train.py'
 
 ## Acknowledgements
 
