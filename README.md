@@ -12,7 +12,7 @@ This project is an AI-powered image classifier that can identify 102 different s
   - Use transfer learning with EfficientNetV2-S or EfficientNetB0 architectures
   - Predict flower species from new images
   - Command-line interface for both training and prediction
-<!--
+
 ## Requirements
 
 - Python 3.x
@@ -21,28 +21,27 @@ This project is an AI-powered image classifier that can identify 102 different s
 - NumPy
 - Matplotlib
 - Pillow
--->
+<!--
 ## Installation
 
 1. Clone this repository:
+```
 git clone https://github.com/yourusername/ai-image-classifier.git
 cd ai-image-classifier
-text
-
+```
 2. Install the required packages:
+```
 pip install -r requirements.txt
-text
-
+```
+-->
 ## Usage
 
 ### Training
 
 To train the model, use the `train.py` script:
 
-python train.py data_directory [--save_dir SAVE_DIR] [--arch {efficientnet_v2_s,efficientnet_b0}]
-[--learning_rate LEARNING_RATE] [--hidden_units HIDDEN_UNITS]
-[--epochs EPOCHS] [--gpu]
-text
+`python train.py data_directory [--save_dir SAVE_DIR] [--arch {efficientnet_v2_s,efficientnet_b0} ][--learning_rate LEARNING_RATE] [--hidden_units HIDDEN_UNITS]
+[--epochs EPOCHS] [--gpu]`
 
 **Arguments:**
 - `data_directory`: Path to the folder of flower images
@@ -57,8 +56,7 @@ text
 
 To predict the species of a flower from an image, use the `predict.py` script:
 
-python predict.py image_path checkpoint [--top_k TOP_K] [--category_names CATEGORY_NAMES] [--gpu]
-text
+`python predict.py image_path checkpoint [--top_k TOP_K] [--category_names CATEGORY_NAMES] [--gpu]`
 
 **Arguments:**
 - `image_path`: Path to the image file
