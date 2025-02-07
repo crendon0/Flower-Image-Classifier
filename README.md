@@ -1,4 +1,4 @@
-# AI Image Classifier Project
+# Flower Image Classifier
 
 ## Overview
 
