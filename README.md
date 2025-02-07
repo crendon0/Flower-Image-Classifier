@@ -74,4 +74,4 @@ text
 
 ## Acknowledgements
 
-This project was completed as part of the AWS AI & ML Scholarship program in collaboration with Udacity. Special thanks to the mentors and instructors who provided guidance throughout the development process.
+This project was completed as part of the AI Programming with Python Nanodegree through the AI & ML Scholarship program, sponsored by AWS and Udacity. Special thanks to the mentors and instructors who provided guidance throughout the development process.
