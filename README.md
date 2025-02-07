@@ -12,7 +12,7 @@ This project is an AI-powered image classifier that can identify 102 different s
   - Use transfer learning with EfficientNetV2-S or EfficientNetB0 architectures
   - Predict flower species from new images
   - Command-line interface for both training and prediction
-
+<!--
 ## Requirements
 
 - Python 3.x
@@ -21,7 +21,7 @@ This project is an AI-powered image classifier that can identify 102 different s
 - NumPy
 - Matplotlib
 - Pillow
-
+-->
 ## Installation
 
 1. Clone this repository:
