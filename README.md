@@ -36,12 +36,12 @@ pip install -r requirements.txt
 -->
 ## Usage
 
-###Jupyter Notebook
+### Jupyter Notebook
 - The notebook should be run using a GPU. Otherwise, training the model can take a long amount of time if done on a CPU.
   - One option is to run the notebook in Goggle Colab.
 - Run the code in order as it appears in the notebook.
 
-###Command-Line Application
+### Command-Line Application
 ### Training
 - Like with the Jupyter Notebook, it's advised to run the application using a GPU to expedite the training process.
 
