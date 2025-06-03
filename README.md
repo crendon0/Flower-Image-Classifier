@@ -82,3 +82,8 @@ To predict the species of a flower from an image, use the `predict.py` script:
 ## Acknowledgements
 
 This project was completed as part of the AI Programming with Python Nanodegree through the AI & ML Scholarship program, sponsored by AWS and Udacity. Special thanks to the mentors and instructors who provided guidance throughout the development process.
+
+|--|--|--|--|--|
+|initial|None|None|None|1.80062|
+|add_features|None|None|None|0.62019|
+|hpo|learning_rate= 0.05|n_estimators=100|num_boost_round=100|0.48359|
